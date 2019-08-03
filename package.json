@@ -1,0 +1,30 @@
+{
+  "name": "nugu-dev",
+  "version": "1.0.0",
+  "description": "project for nugu",
+  "main": "index.js",
+  "scripts": {
+    "test": "(none)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mijung-nugu/nugu-dev.git"
+  },
+  "keywords": [
+    "nugu",
+    "mijung",
+    "skt"
+  ],
+  "author": "mijungko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mijung-nugu/nugu-dev/issues"
+  },
+  "homepage": "https://github.com/mijung-nugu/nugu-dev#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "socket.io": "^2.2.0",
+    "stylus": "^0.54.5"
+  }
+}
