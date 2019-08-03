@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/mijung-nugu/nugu-dev#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
     "jade": "^1.11.0",
     "socket.io": "^2.2.0",
